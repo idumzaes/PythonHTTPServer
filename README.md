@@ -1,5 +1,6 @@
 # PythonHTTPServer
 Simple Python HTTP Server used for serving files on your local area network.
+Access it on ip-address/8000
 
 ## Volume Persistance
 `mkdir ~/webserver` // Creates a directory on the host. Place files to be hosted here.
